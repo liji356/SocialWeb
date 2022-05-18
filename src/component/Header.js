@@ -11,7 +11,7 @@ const Header = () => {
       </button>
       <div className="collapse navbar-collapse" id="navbarNavAltMarkup">
         <div className="navbar-nav">
-          q
+          
           <Link className="nav-link active" to={"/"}>Add Post</Link>
           
           <Link className="nav-link " to={"/search"}>Search Post</Link>
